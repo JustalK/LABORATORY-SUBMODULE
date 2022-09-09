@@ -1,3 +1,6 @@
 [submodule "lsi"]
 	path = lsi
 	url = https://github.com/justalk/LABORATORY-SUBMODULE-INTERN
+[submodule "lsi2"]
+	path = lsi2
+	url = https://github.com/justalk/LABORATORY-SUBMODULE-INTERN
